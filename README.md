@@ -17,15 +17,10 @@ Hello! My name is Ale, and my pronouns are she/her. I grew up in a border town b
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. How to convey data that is dense or complicated in a clear way for my audience to understand.
+2. How to learn to be concise in how data vizualizations should be presented and effectively integrate color and "style"
+3. Feel confodent in explaining data in simple terms that is both understandable and interesting to look at through data vizualization techniques.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
