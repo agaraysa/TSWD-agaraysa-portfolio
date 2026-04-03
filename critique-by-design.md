@@ -70,7 +70,7 @@ Immediately, I knew I wanted to make this visualization more interesting and int
 
 ![funny dog picture](https://drive.google.com/file/d/1g-B5P2VUwJQbyD3qAq4O5D76r3qpKIls/view?usp=share_link)
 
-
+![image]([https://github.com/user-attachments/your-image-link](https://drive.google.com/file/d/1SGmFKVX0WNd_Y9JnvTEr-TEvgJ9OBWP6/view?usp=share_link))
 
 ## Step four: Test the solution
 Alternately, you can set the size of the image using just a bit of HTML: 
