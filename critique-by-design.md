@@ -81,25 +81,51 @@ _I had decided to try with Tableau first but had trouble figuring out how to cre
 
 _This was my general script of the questions I asked during my interviews:_
 
-_**Q1:**What is this showing and can you do your best to describe it?
-**Q2:**Can you describe to me what this is telling you?
-**Q3:**Who do you think the audience is for this?
-**Q4:**What works or isn’t working? 
-**Q5:**What would you change?_
+_**Q1:** What is this showing and can you do your best to describe it?_
+_**Q2:** What works?_
+_**Q3:** What isn’t working?_ 
+_**Q4:** What would you change?_
 
 **Results:** 
 
-_When conducting my interviews, I only showed them my sketches, and use unfortunately I had to walk them through my thought process becasue this was mostly my brainstorm sketch. However since I could not figure out how to do a stacked table in Tableau, I feld that my sketches ( not my failed attempted) depicted my vision a lt better. Interviews 1-3 were done with my sketches being the only source of information. Then I was able to figure out how to do astacked table after my friend mentioned that I could simply ask Claude (or ChatGPT) to help me figure out to do that, so I was asking Claude to help me with how to make a stacked bar chart and how to edit labels. Which helped me learn how to use Tableau and it feature. Interview 4 was done with the edits from my first 3 interviews that was applied to my data visualization done in Tableau. The screenshot of the table can be found below the table._
+_When conducting my interviews, I only showed them my sketches, and use unfortunately I had to walk them through my thought process becasue this was mostly my brainstorm sketch. However since I could not figure out how to do a stacked table in Tableau, I feld that my sketches ( not my failed attempted) depicted my vision a lt better. Interviews 1-3 were done with my sketches being the only source of information. I also after asking them my questions I brainstomred some ideas. I asked them if instead of doing a bar chart I should instead depict the data as a trend line, since th article mentions it and possibly show those visually, interviewer 3 mentioned theit thoughts about this in Question 4 and the other two agreed.*Please note that I parephrased these interviews and simplified them since we had it mostly as a conversation and I jotted down quick notes_  
 
 
-| Question | Interview 1 | Interview 2 | Interview 3 | Interview 4 |
-|----------|-------------|-------------|-------------|-------------|
-|   Q1     |             |             |             |             | 
-|   Q2     |             |             |             |             | 
-|   Q2     |             |             |             |             | 
-|   Q3     |             |             |             |             | 
-|   Q3     |             |             |             |             | 
-|   Q5     |             |             |             |             | 
+| Question |              Interview 1                                                                        |
+|----------|-------------------------------------------------------------------------------------------------|
+|   Q1     |How much top Athletes Earn off and on the field                                                  |          
+|   Q2     |I like the dark green and light green                                                            |         
+|   Q3     |Do not include the Rank in the axis, it os redundant                                             |          
+|   Q4     |What is the story you want say? The Audience and story is not direct, make sure you make it clear|  
+
+
+| Question |              Interview 2                                                                                             |
+|----------|--------------------------------------------------------------------------------------------------------|
+|   Q1     | Keep the Orginal Title of the article and make it clear (for both the horizontal and verticle sketches)|         
+|   Q2     | I like your choice of using the same color green, but in different shades                              |         
+|   Q3     |Listing the Rank is not neccessary if you plan to sort them by top player first.                        |        
+|   Q4     |Maybe you can try grouping athletes by sport to make it clearer what sport they play                    | 
+
+
+| Question |              Interview 3                                                                      |
+|----------|-----------------------------------------------------------------------------------------------|
+|   Q1     |  How much the top sport players earn                                                          |         
+|   Q2     | I like your visualization choice but you can make multiple charts to show different sports    |         
+|   Q3     |what sport does each athlete play? That is not clear                                           |          
+|   Q4     | you can change your visualization to tell the story you want to demonstrate, you get to choose| 
+
+
+_I was able to figure out how to do a stacked table after my friend mentioned that I could simply ask Claude (or ChatGPT) to help me figure out to do that, so I was asking Claude to help me with how to make a stacked bar chart and how to edit labels. Which helped me learn how to use Tableau and it feature. Interview 4 was done with the edits from my first 3 interviews that was applied to my data visualization done in Tableau._
+
+Nene said that Tennis and baseball do not make money on the field or off the field? Maybe lack of info? since it shows that maybe they only earn this amount only, maybe can show which sports tell you the story you want to make, Active vs not active (because she makes off the field), add the count to have total number of players shown? Also baseball only one player makes tiney amount
+
+| Question |              Interview 4                     |
+|----------|----------------------------------------------|
+|   Q1     | This shows that players earn the most money in basketball and Golf|         
+|   Q2     |                                              |         
+|   Q3     |                                              |          
+|   Q4     |           | 
+
 
 **Stack Bar Chart Attempt Using Tableau**
 
