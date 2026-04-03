@@ -17,8 +17,7 @@ _Source: Forbes.com_
 
 _The table also has an interactive component where you can use two different search bars to filter by player name or by player sport. As you can see depicted by the screenshots below:_
 
-![Search Athlete Name in Search Bar](<img width="1324" height="474" alt="Screenshot 2026-04-01 at 11 37 47 PM" src="https://github.com/user-attachments/assets/0bc00876-6b59-4e24-b156-173f9fa13897" />
-) 
+![Search Athlete Name in Search Bar]([<img width="1324" height="474" alt="Screenshot 2026-04-01 at 11 37 47 PM" src="https://github.com/user-attachments/assets/0bc00876-6b59-4e24-b156-173f9fa13897" />](https://drive.google.com/file/d/1xV1xJGXB_mUjCWotGRe5GmV8KbM2IJre/view?usp=share_link)
 _Source: Forbes.com_
 
 ![Search by Sport Category](<img width="1324" height="840" alt="Screenshot 2026-04-01 at 11 37 18 PM" src="https://github.com/user-attachments/assets/d09442b5-4b51-4f4d-962c-271b35bde01d" />
