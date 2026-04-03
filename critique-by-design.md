@@ -11,7 +11,7 @@ _Side note: Interestingly enough, the sport Tennis (and player Serena Williams) 
 
 Here's an example of how to add an image to my portfolio.  
 
-![Forbes 2025 World’s Highest Paid Athletes]([<img width="1324" height="840" alt="Screenshot 2026-04-01 at 11 37 05 PM" src="https://github.com/user-attachments/assets/102a9489-837c-410e-8438-19a651059af1" />](https://drive.google.com/file/d/1aSrLZQ2hV5kR0DQlTvWL1Ftcvzmelw40/view?usp=share_link)
+![Forbes 2025 World’s Highest Paid Athletes](<[<img width="1324" height="840" alt="Screenshot 2026-04-01 at 11 37 05 PM" src="https://github.com/user-attachments/assets/102a9489-837c-410e-8438-19a651059af1" />](https://drive.google.com/file/d/1aSrLZQ2hV5kR0DQlTvWL1Ftcvzmelw40/view?usp=share_link="300">)
 _Source: Forbes.com_
   
 
