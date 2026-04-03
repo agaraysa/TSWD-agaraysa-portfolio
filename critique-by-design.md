@@ -66,7 +66,12 @@ Immediately, I knew I wanted to make this visualization more interesting and int
 
 ## Step three: Sketch a solution
 ### My Process
+_As I though about how to best represent this visualization, I immediately though of a stacked bar chart! I found the On-field earnings and Off-field Earnings really interesting to show the proportion of how this plays out onto each players total earnings, so from there I began to sketch and think about how I wanted to build it. I knew I wanted to be monochromatic but depct the different proportion as different shades (dark vs light) I went with green!_
+  
 ![IMG_0226 Large](https://github.com/user-attachments/assets/586f2c1f-5004-459e-9083-340329181655)
+
+_I then explored whether verticle vs horizontal would do the best job and was playing around with the title and how I wanted my key to look, how the player names should be placed. Here is a closer look at my initial sketches and though process:_ 
+![IMG_0228 Medium](https://github.com/user-attachments/assets/bb145025-b38c-4e84-b1f8-acd47f277065)
 
 
 ## Step four: Test the solution
