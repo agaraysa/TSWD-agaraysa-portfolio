@@ -66,11 +66,8 @@ Immediately, I knew I wanted to make this visualization more interesting and int
 
 ## Step three: Sketch a solution
 ### My Process
-<img src="https://drive.google.com/file/d/1SGmFKVX0WNd_Y9JnvTEr-TEvgJ9OBWP6/view?usp=share_link" width="200"/>
+![IMG_0226 Large](https://github.com/user-attachments/assets/586f2c1f-5004-459e-9083-340329181655)
 
-![funny dog picture](https://drive.google.com/file/d/1g-B5P2VUwJQbyD3qAq4O5D76r3qpKIls/view?usp=share_link)
-
-![Alt text]([https://github.com/user-attachments/your-image-link](https://drive.google.com/file/d/1SGmFKVX0WNd_Y9JnvTEr-TEvgJ9OBWP6/view?usp=share_link))
 
 ## Step four: Test the solution
 Alternately, you can set the size of the image using just a bit of HTML: 
