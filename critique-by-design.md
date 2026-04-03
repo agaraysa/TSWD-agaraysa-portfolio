@@ -9,7 +9,7 @@ _The visualization I chose was [Forbes 2025 World’s Highest Paid Athletes](htt
 _Side note: Interestingly enough, the sport Tennis (and player Serena Williams) was included in the actual data set I downloaded, however it was not included in the original Forbes table. I will share my thoughts as to why this may be the case in a later section within this critique._
 
 ### Forbes 2025 World’s Highest Paid Athletes
-[<img width="1324" height="840" alt="Screenshot 2026-04-01 at 11 37 05 PM" src="https://github.com/user-attachments/assets/102a9489-837c-410e-8438-19a651059af1" />](https://drive.google.com/file/d/1aSrLZQ2hV5kR0DQlTvWL1Ftcvzmelw40/view?usp=share_link="300">)
+[<img width="1324" height="840" alt="Screenshot 2026-04-01 at 11 37 05 PM" src="https://github.com/user-attachments/assets/102a9489-837c-410e-8438-19a651059af1" />](https://drive.google.com/file/d/1aSrLZQ2hV5kR0DQlTvWL1Ftcvzmelw40/view?usp=share_link)
 _Source: Forbes.com_
   
 _The table also has an interactive component where you can use two different search bars to filter by player name or by player sport. As you can see depicted by the screenshots below:_
@@ -66,7 +66,7 @@ Immediately, I knew I wanted to make this visualization more interesting and int
 
 ## Step three: Sketch a solution
 ### My Process
-
+[[<img width="1324" height="840" alt="Screenshot 2026-04-01 at 11 37 05 PM" src="https://github.com/user-attachments/assets/102a9489-837c-410e-8438-19a651059af1" />](https://drive.google.com/file/d/1aSrLZQ2hV5kR0DQlTvWL1Ftcvzmelw40/view?usp=share_link](https://drive.google.com/file/d/1SGmFKVX0WNd_Y9JnvTEr-TEvgJ9OBWP6/view?usp=share_link))
 
 
 ## Step four: Test the solution
