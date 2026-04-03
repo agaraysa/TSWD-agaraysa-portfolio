@@ -23,12 +23,6 @@ _Source: Forbes.com_
 ![Search by Sport Category]([<img width="1324" height="840" alt="Screenshot 2026-04-01 at 11 37 18 PM" src="https://github.com/user-attachments/assets/d09442b5-4b51-4f4d-962c-271b35bde01d" />](https://drive.google.com/file/d/1xV1xJGXB_mUjCWotGRe5GmV8KbM2IJre/view?usp=share_link) 
 _Source: Forbes.com_
 
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.
-
 ## Step two: the critique
 
 _Q1: Usefulness.  Is it useful for the intended audience?  Does it communicate valuable information?  Usefulness Score – 5_
