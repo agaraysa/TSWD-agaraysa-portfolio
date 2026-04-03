@@ -82,8 +82,11 @@ _I had decided to try with Tableau first but had trouble figuring out how to cre
 _This was my general script of the questions I asked during my interviews:_
 
 _**Q1:** What is this showing and can you do your best to describe it?_
+
 _**Q2:** What works?_
+
 _**Q3:** What isn’t working?_ 
+
 _**Q4:** What would you change?_
 
 **Results:** 
