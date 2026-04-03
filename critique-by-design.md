@@ -109,8 +109,9 @@ _This one focused on Ranking all 50 the Top Earner in descending order. This is 
 _This one just focused on the top earners within sports This is what I showed the person from interview 4 as well after._
 <img width="1084" height="419" alt="Screenshot 2026-04-02 at 10 41 36 PM" src="https://github.com/user-attachments/assets/f873a19b-f15f-4918-a5cc-6b956008fac2" />
 
-**My Journey Figuring it Out**
-I was going back and forth with Calude sending it screenshots to help me walk me through how to do it step by step, which was very helpful_
+**My Journey "figuring it Out"**
+
+_I was going back and forth with Claude sending it screenshots to help me walk me through how to do it step by step, which was very helpful_
 
 <img width="1085" height="660" alt="Screenshot 2026-04-02 at 10 38 54 PM" src="https://github.com/user-attachments/assets/2477a36b-e707-478f-88ff-879f319edf7e" />
 
