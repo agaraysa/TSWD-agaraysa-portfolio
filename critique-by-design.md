@@ -73,6 +73,9 @@ _As I though about how to best represent this visualization, I immediately thoug
 _I then explored whether verticle vs horizontal would do the best job and was playing around with the title and how I wanted my key to look, how the player names should be placed. Here is a closer look at my initial sketches and though process:_ 
 ![IMG_0228 Medium](https://github.com/user-attachments/assets/bb145025-b38c-4e84-b1f8-acd47f277065)
 
+_I had decided to try with Tableau first but had trouble figuring out how to create/integrate the data so that it the bar graph could appear stacked, but failed. This was my first attempt and just decided to give-up, but this was the furthest I got:_
+<img width="842" height="585" alt="Screenshot 2026-03-30 at 12 24 54 PM" src="https://github.com/user-attachments/assets/1622892f-931d-48c4-b199-6059f6ea7c5d" />
+
 
 ## Step four: Test the solution
 Alternately, you can set the size of the image using just a bit of HTML: 
