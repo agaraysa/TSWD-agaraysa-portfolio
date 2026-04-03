@@ -9,17 +9,17 @@ _The visualization I chose was [Forbes 2025 World’s Highest Paid Athletes](htt
 _Side note: Interestingly enough, the sport Tennis (and player Serena Williams) was included in the actual data set I downloaded, however it was not included in the original Forbes table. I will share my thoughts as to why this may be the case in a later section within this critique._
 
 ### Forbes 2025 World’s Highest Paid Athletes
-(<[<img width="1324" height="840" alt="Screenshot 2026-04-01 at 11 37 05 PM" src="https://github.com/user-attachments/assets/102a9489-837c-410e-8438-19a651059af1" />](https://drive.google.com/file/d/1aSrLZQ2hV5kR0DQlTvWL1Ftcvzmelw40/view?usp=share_link="300">)
+[<img width="1324" height="840" alt="Screenshot 2026-04-01 at 11 37 05 PM" src="https://github.com/user-attachments/assets/102a9489-837c-410e-8438-19a651059af1" />](https://drive.google.com/file/d/1aSrLZQ2hV5kR0DQlTvWL1Ftcvzmelw40/view?usp=share_link="300">)
 _Source: Forbes.com_
   
 _The table also has an interactive component where you can use two different search bars to filter by player name or by player sport. As you can see depicted by the screenshots below:_
 
 ### Search Athlete Name in Search Bar
-([<img width="1324" height="474" alt="Screenshot 2026-04-01 at 11 37 47 PM" src="https://github.com/user-attachments/assets/0bc00876-6b59-4e24-b156-173f9fa13897" />](https://drive.google.com/file/d/1xV1xJGXB_mUjCWotGRe5GmV8KbM2IJre/view?usp=share_link)
+[<img width="1324" height="474" alt="Screenshot 2026-04-01 at 11 37 47 PM" src="https://github.com/user-attachments/assets/0bc00876-6b59-4e24-b156-173f9fa13897" />](https://drive.google.com/file/d/1xV1xJGXB_mUjCWotGRe5GmV8KbM2IJre/view?usp=share_link)
 _Source: Forbes.com_
 
 ### Search by Sport Category
-([<img width="1324" height="840" alt="Screenshot 2026-04-01 at 11 37 18 PM" src="https://github.com/user-attachments/assets/d09442b5-4b51-4f4d-962c-271b35bde01d" />](https://drive.google.com/file/d/1xV1xJGXB_mUjCWotGRe5GmV8KbM2IJre/view?usp=share_link) 
+[<img width="1324" height="840" alt="Screenshot 2026-04-01 at 11 37 18 PM" src="https://github.com/user-attachments/assets/d09442b5-4b51-4f4d-962c-271b35bde01d" />](https://drive.google.com/file/d/1xV1xJGXB_mUjCWotGRe5GmV8KbM2IJre/view?usp=share_link) 
 _Source: Forbes.com_
 
 ## Step two: the critique
@@ -65,6 +65,9 @@ _**Q10:** Based on your critique, what do you think you'll try to focus on in yo
 Immediately, I knew I wanted to make this visualization more interesting and interactive by creating a stacked bar graph to not only show total earnings for each top-earning player, but also to display on- and off-field earnings in one place. To make it both visually more appealing and easier to register, however, this would mean 50 bars per player, so I am considering reducing the players depicted to the top 10-15. Just some initial thoughts. Additionally I want to see if I try to depict some of this data as a trend line since the author mentions “trend” throughout their article, so I will see how I can align that more with their words and communicate ideas, as noted in the Goodcharts book Chapter 4, that recommends we listen to how we describe our data to hint as to the type of visualization would make the best fit to the story we are hoping to tell._
 
 ## Step three: Sketch a solution
+### My Process
+
+
 
 ## Step four: Test the solution
 
