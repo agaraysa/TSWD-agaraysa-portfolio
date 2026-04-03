@@ -66,14 +66,14 @@ Immediately, I knew I wanted to make this visualization more interesting and int
 
 ## Step three: Sketch a solution
 ### My Process
-_As I though about how to best represent this visualization, I immediately though of a stacked bar chart! I found the On-field earnings and Off-field Earnings really interesting to show the proportion of how this plays out onto each players total earnings, so from there I began to sketch and think about how I wanted to build it. I knew I wanted to be monochromatic but depct the different proportion as different shades (dark vs light) I went with green!_
+_As I though about how to best represent this visualization, I immediately though of a stacked bar chart! I found the On-field earnings and Off-field Earnings really interesting to show the proportion of how this plays out for each players total earnings. From there I began to sketch and think about how I wanted to build it. I knew I wanted to be monochromatic but depict the different proportion as different shades of the color (dark vs light) I went with green!_
   
 ![IMG_0226 Large](https://github.com/user-attachments/assets/586f2c1f-5004-459e-9083-340329181655)
 
-_I then explored whether verticle vs horizontal would do the best job and was playing around with the title and how I wanted my key to look, how the player names should be placed. Here is a closer look at my initial sketches and though process:_ 
+_I then explored whether verticle vs horizontal would do the best job and was playing around with the title and how I wanted my legend to look and where/how the player names should be placed. Here is a closer look at my initial sketches and thought process:_ 
 ![IMG_0228 Medium](https://github.com/user-attachments/assets/bb145025-b38c-4e84-b1f8-acd47f277065)
 
-_I had decided to try with Tableau first but had trouble figuring out how to create/integrate the data so that it the bar graph could appear stacked, but failed. This was my first attempt and just decided to give-up, but this was the furthest I got:_
+_I had decided to try with Tableau first but had trouble figuring out how to create/integrate the data so that the bar graph could appear stacked, but failed. This was my first attempt and just decided to give-up, but this was the furthest I got:_
 <img width="842" height="585" alt="Screenshot 2026-03-30 at 12 24 54 PM" src="https://github.com/user-attachments/assets/1622892f-931d-48c4-b199-6059f6ea7c5d" />
 
 
@@ -102,7 +102,7 @@ _When conducting my interviews, I only showed them my sketches, and use unfortun
 |   Q4     |What is the story you want say? The Audience and story is not direct, make sure you make it clear|  
 
 
-| Question |              Interview 2                                                                                             |
+| Question |              Interview 2                                                                               |
 |----------|--------------------------------------------------------------------------------------------------------|
 |   Q1     | Keep the Orginal Title of the article and make it clear (for both the horizontal and verticle sketches)|         
 |   Q2     | I like your choice of using the same color green, but in different shades                              |         
@@ -119,17 +119,18 @@ _When conducting my interviews, I only showed them my sketches, and use unfortun
 
 
 
+
 **Stack Bar Chart Attempt Using Tableau**
 
-_I was able to figure out how to do a stacked table after my friend mentioned that I could simply ask Claude (or ChatGPT) to help me figure out to do that, so I was asking Claude to help me with how to make a stacked bar chart and how to edit labels. Which helped me learn how to use Tableau and it feature. Interview 4 was done with the edits from my first 3 interviews that was applied to my data visualization done in Tableau._
+_I was able to figure out how to do a stacked table after my friend mentioned that I could simply ask Claude (or ChatGPT) to help me figure out to do that, so I was asking Claude to help me with how to make a stacked bar chart and how to edit labels. Which helped me learn how to use Tableau and it features. Interview 4 was done in Tableau with the edits from my first 3 interviews that I applied to my updated data visualization._
 
 _This one focused on Ranking all 50 the Top Earner in descending order. This is what I showed the person from interview 4._
 <img width="930" height="583" alt="Screenshot 2026-04-01 at 12 28 05 AM" src="https://github.com/user-attachments/assets/ae3ed26f-efc6-4f10-a98b-803f6db66006" />
 
-_This one just focused on the top earners within sports This is what I showed the person from interview 4 as well after._
+_This one just focused on the top earners within sports This is what I showed the person from interview 4 as well after the initial one._
 <img width="1084" height="419" alt="Screenshot 2026-04-02 at 10 41 36 PM" src="https://github.com/user-attachments/assets/f873a19b-f15f-4918-a5cc-6b956008fac2" />
 
-**My Journey "figuring it Out"**
+**My Journey "Figuring it Out"**
 
 _I was going back and forth with Claude sending it screenshots to help me walk me through how to do it step by step, which was very helpful_
 
@@ -140,41 +141,50 @@ _I was going back and forth with Claude sending it screenshots to help me walk m
 <img width="978" height="660" alt="Screenshot 2026-04-02 at 10 39 11 PM" src="https://github.com/user-attachments/assets/6eb4314b-bbd6-4ca6-a3a8-9f171e16fa0a" />
 
 
-_This is was when I finally was able to figure out how to make a bar chart! Thank you Claude!_
+_This was when I finally was able to figure out how to make a bar chart! Thank you Claude!_
 
 <img width="841" height="585" alt="Screenshot 2026-03-30 at 12 24 28 PM" src="https://github.com/user-attachments/assets/2e1fad3e-36b6-4c30-b3b3-cc2fad119946" />
 
 
-| Question |              Interview 4                                                                                                 |
-|----------|--------------------------------------------------------------------------------------------------------------------------|
-|   Q1     | One show top earning athletes and the other shows that players earn the most money in basketball and golf                |     
-|   Q2     |I like the "sports" only chart, it is more simple, the other one is big but you need to include the type of sport played  |     
-|   Q3     | what is the point of having Tennis and basebal in the second graph, you cannot compare on vs off field earnings          |     
-|   Q4     | Maybe you can switch the colors wher light is on field and dark is off field or have the highest proportion be at the top| 
+| Question |              Interview 4                                                                                                  |
+|----------|---------------------------------------------------------------------------------------------------------------------------|
+|   Q1     | One shows top earning athletes and the other shows that players earn the most money in basketball and golf                |    
+|   Q2     |I like the "sports" only chart, it is more simple, the other one has many bars,you need to include the type of sport played|    
+|   Q3     | what is the point of having Tennis and basebal in the second graph, you cannot compare on vs off field earnings           |    
+|   Q4     | Maybe you can switch the colors wher light is on field and dark is off field or have the highest proportion be at the top | 
 
 
 **Interview Insights:** 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign.
-Nene said that Tennis and baseball do not make money on the field or off the field? Maybe lack of info? since it shows that maybe they only earn this amount only, maybe can show which sports tell you the story you want to make, Active vs not active (because she makes off the field), add the count to have total number of players shown? Also baseball only one player makes tiney amount_
+_The patterns that emerged from my interview feedback included clarifying "who" my audience was (or could be geared towards), what data or labels should be excluded (less is more), aesthetic details such as color, how to organize the data to make it less complex and more easliy understood by the reader, and finally deciding how to best tell the story. I agreed with my feedback about "who" the audience is meant to capture, and I honestly had not thought it through. In the end, this helped me reflect on who my target audience would be and how that would change how I presented the data and tell my story. Also, this feedback was helpful in thinking about how I can simplify and "take away" from the visualization rather than add to it. I will say that the second visualization was confusing to my interviewer 4, who did not see the point of including Tennis since it did not have any on-field earnings. At first, I thought this was odd, but then we realized there are only 2 tennis players depicted in that category, and at least for Serena Williams, she is no longer playing, so it makes sense that her earnings are strictly off the court._
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+_My target audience could be curious individuals who would be immediately hooked on learning how much top-earning athletes make, depending on the sport. My audience would most likely attract sports fans and potential athletes who may be curious about how they compare to top-earning counterparts (however, this population may be more niche, and my goal was to capture a more general, curious audience). Since I wanted the data visualization to be easily consumed by any curious soul, I grouped the athletes by sport category and ranked them by descending top earnings within each category (with their names listed). From there, my goal was for individuals to quickly scroll and filter by sport first, then more easily find their player, and compare across some of these well-known players. That being said, I also felt that grouping by sport also helps give context to those player names that are not recognizable to the masses. In that case, the audience could be more expert sports-related individuals, like specific sports industry agents, rather than just a super fan who knows who these other, less-known top-earning athletes are. In the second visualization, I wanted to keep it as simple as possible so folks can quickly see it and get the gist of how the top-earning current and ex-players are from basketball and golf. The audience here can be sports agents who want to diversify how they market their players off the field, and to compare where the opportunity lies to invest or where the most industry-related drivers may be. Additionally, this could inform how off-field earnings, even after a player no longer plays, truly impact the amount earned in each industry or for the player. However, this data could be misleading because it suggests Tennis makes no on-field earnings, but that's because Serena Williams and the other player were the only two players depicted in tennis. Both of those players make the most off-field earnings; however, this makes sense for Serena Williams, since she is a retired player._
 
-_**Final Data Visualization Depictng the Top Earning Athletes Per Sport**_
+_The other main change I made was to switch the colors of on vs. off field earnings so that dark green was the top proportion depicted in the stacked bar. The other was to change the titles for both visualizations, so they clearly state the data's findings or what they are comparing. I tried my best to highlight that this was from a list of 50 current vs. players, so it could inform some of the gaps I pointed out in the previous paragraph (which is why I still decided to keep Tennis and baseball in the second visualization). Unfortunately, I realized I completely missed putting the year, which will leave our reader questioning "when"! Additionally, I like that you can hover over the proportion in the stacked bar to see the actual dollar amounts of off vs. on earnings. I did not put the dollar sign for the value, which is an important detail to include for next time._
+
+_I did not test using a trend line visualization, but it was simply because I enjoyed playing around with my stacked bar graphs. I also ran out of time to keep experimenting, but I am curious if it would be a better data viz than these two. But in the end, I decided that I wanted to tell these two stories from the data I chose._ 
+
+
+### Final Data Visualization Depicting the Top Earning Athletes Per Sport 
 
 <div class='tableauPlaceholder' id='viz1775188776366' style='position: relative'><noscript><a href='#'><img alt='The Top Earning Athletes Per Sport(Source: Forbes Magazine; From list of the 50 top earning current and ex-athletes) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TE&#47;TEMP_1vntr210f32hpd14hbbif1geakx7&#47;TheTop50EarningAthletes2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TEMP_1vntr210f32hpd14hbbif1geakx7&#47;TheTop50EarningAthletes2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TE&#47;TEMP_1vntr210f32hpd14hbbif1geakx7&#47;TheTop50EarningAthletes2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1775188776366');var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
-_**Final Data Visualization Depicitng the that the Top Earning Athletes are in the Basketball and Golf Sports**_
+
+
+### Final Data Visualization Depicting the that the Top Earning Athletes are in the Basketball and Golf Sports
+
 
 <div class='tableauPlaceholder' id='viz1775188974817' style='position: relative'><noscript><a href='#'><img alt='Top Earning Athletes Are From Basketball &amp; Golf Sports(Source: Forbes Magazine; From list of the 50 top earning current and ex-athletes) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TE&#47;TEMP_1vntr210f32hpd14hbbif1geakx7&#47;TheTop50EarningAthletesPlayBasketballGolf&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TEMP_1vntr210f32hpd14hbbif1geakx7&#47;TheTop50EarningAthletesPlayBasketballGolf' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TE&#47;TEMP_1vntr210f32hpd14hbbif1geakx7&#47;TheTop50EarningAthletesPlayBasketballGolf&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>                   var divElement = document.getElementById('viz1775188974817');var vizElement = divElement.getElementsByTagName('object')[0];                vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
 ## References
 _"Good Charts Book" by Scott Berinato (HBR Press)_
-_ [MakeoverMonday](https://makeovermonday.co.uk/) _
-_ [Forbes 2025 World’s Highest Paid Athletes](https://www.forbes.com/lists/athletes/?sh=162054105b7e) _
+
+[MakeoverMonday](https://makeovermonday.co.uk/) 
+
+[Forbes 2025 World’s Highest Paid Athletes](https://www.forbes.com/lists/athletes/?sh=162054105b7e) 
 
 ## AI acknowledgements
-_I used Claude to help me navigate how to use the Tableau platform so I could figure out how to make a stacked bar graph and how to do other technical things such as moving the label to the end of a bar or how group variables (which I did for sports and athletes), which I reference above in my data visualization journey._
+_I used Claude to help me navigate how to use the Tableau platform so I could figure out how to make a stacked bar graph and how to do other technical things, such as moving the label to the end of a bar or grouping variables (which I did for sports and athletes), which I referenced above in my data visualization journey._
 
