@@ -66,10 +66,14 @@ Immediately, I knew I wanted to make this visualization more interesting and int
 
 ## Step three: Sketch a solution
 ### My Process
-![My Sketch]((https://drive.google.com/file/d/1g-B5P2VUwJQbyD3qAq4O5D76r3qpKIls/view?usp=share_link))
+<img src="https://drive.google.com/file/d/1g-B5P2VUwJQbyD3qAq4O5D76r3qpKIls/view?usp=share_link"/>
+
 
 
 ## Step four: Test the solution
+Alternately, you can set the size of the image using just a bit of HTML: 
+
+<img src="funny-dog-unsplash.jpg" width="200"/>
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
