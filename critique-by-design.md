@@ -115,19 +115,10 @@ _When conducting my interviews, I only showed them my sketches, and use unfortun
 |   Q4     | you can change your visualization to tell the story you want to demonstrate, you get to choose| 
 
 
-_I was able to figure out how to do a stacked table after my friend mentioned that I could simply ask Claude (or ChatGPT) to help me figure out to do that, so I was asking Claude to help me with how to make a stacked bar chart and how to edit labels. Which helped me learn how to use Tableau and it feature. Interview 4 was done with the edits from my first 3 interviews that was applied to my data visualization done in Tableau._
-
-Nene said that Tennis and baseball do not make money on the field or off the field? Maybe lack of info? since it shows that maybe they only earn this amount only, maybe can show which sports tell you the story you want to make, Active vs not active (because she makes off the field), add the count to have total number of players shown? Also baseball only one player makes tiney amount
-
-| Question |              Interview 4                     |
-|----------|----------------------------------------------|
-|   Q1     | This shows that players earn the most money in basketball and Golf|         
-|   Q2     |                                              |         
-|   Q3     |                                              |          
-|   Q4     |           | 
-
 
 **Stack Bar Chart Attempt Using Tableau**
+
+_I was able to figure out how to do a stacked table after my friend mentioned that I could simply ask Claude (or ChatGPT) to help me figure out to do that, so I was asking Claude to help me with how to make a stacked bar chart and how to edit labels. Which helped me learn how to use Tableau and it feature. Interview 4 was done with the edits from my first 3 interviews that was applied to my data visualization done in Tableau._
 
 _This one focused on Ranking all 50 the Top Earner in descending order. This is what I showed the person from interview 4._
 <img width="930" height="583" alt="Screenshot 2026-04-01 at 12 28 05 AM" src="https://github.com/user-attachments/assets/ae3ed26f-efc6-4f10-a98b-803f6db66006" />
@@ -151,18 +142,28 @@ _This is was when I finally was able to figure out how to make a bar chart! Than
 <img width="1238" height="838" alt="Screenshot 2026-04-01 at 12 53 40 AM" src="https://github.com/user-attachments/assets/334cc8f1-ed24-44aa-9f83-ebed6a70ecf9" />
 
 
+| Question |              Interview 4                                                                                                 |
+|----------|--------------------------------------------------------------------------------------------------------------------------|
+|   Q1     | One show top earning athletes and the other shows that players earn the most money in basketball and golf                |     
+|   Q2     |I like the "sports" only chart, it is more simple, the other one is big but you need to include the type of sport played  |     
+|   Q3     | what is the point of having Tennis and basebal in the second graph, you cannot compare on vs off field earnings          |     
+|   Q4     | Maybe you can switch the colors wher light is on field and dark is off field or have the highest proportion be at the top| 
 
-Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+**Interview Insights:** 
+
+_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign.
+Nene said that Tennis and baseball do not make money on the field or off the field? Maybe lack of info? since it shows that maybe they only earn this amount only, maybe can show which sports tell you the story you want to make, Active vs not active (because she makes off the field), add the count to have total number of players shown? Also baseball only one player makes tiney amount_
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+_"Good Charts Book" by Scott Berinato (HBR Press) _
+_https://makeovermonday.co.uk/_ [MakeoverMonday](https://makeovermonday.co.uk/) 
+_ [Forbes 2025 World’s Highest Paid Athletes](https://www.forbes.com/lists/athletes/?sh=162054105b7e) _
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_I used Claude to help me navigate how to use the Tableau platform so I could figure out how to make a stacked bar graph and how to do other technical things such as moving the label to the end of a bar or how group variables (which I did for sports and athletes), which I reference above in my data visualization journey._
 
