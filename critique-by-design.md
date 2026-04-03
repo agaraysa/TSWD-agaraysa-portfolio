@@ -78,34 +78,47 @@ _I had decided to try with Tableau first but had trouble figuring out how to cre
 
 
 ## Step four: Test the solution
-Alternately, you can set the size of the image using just a bit of HTML: 
 
-<img src="funny-dog-unsplash.jpg" width="200"/>
+_This was my general script of the questions I asked during my interviews:_
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+_**Q1:**What is this showing and can you do your best to describe it?
+**Q2:**Can you describe to me what this is telling you?
+**Q3:**Who do you think the audience is for this?
+**Q4:**What works or isn’t working? 
+**Q5:**What would you change?_
 
-Questions to ask (modify these for your own interviews): 
+**Results:** 
 
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+_When conducting my interviews, I only showed them my sketches, and use unfortunately I had to walk them through my thought process becasue this was mostly my brainstorm sketch. However since I could not figure out how to do a stacked table in Tableau, I feld that my sketches ( not my failed attempted) depicted my vision a lt better. Interviews 1-3 were done with my sketches being the only source of information. Then I was able to figure out how to do astacked table after my friend mentioned that I could simply ask Claude (or ChatGPT) to help me figure out to do that, so I was asking Claude to help me with how to make a stacked bar chart and how to edit labels. Which helped me learn how to use Tableau and it feature. Interview 4 was done with the edits from my first 3 interviews that was applied to my data visualization done in Tableau. The screenshot of the table can be found below the table._
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Question | Interview 1 | Interview 2 | Interview 3 | Interview 4 |
+|----------|-------------|-------------|-------------|-------------|
+|   Q1     |             |             |             |             | 
+|   Q2     |             |             |             |             | 
+|   Q2     |             |             |             |             | 
+|   Q3     |             |             |             |             | 
+|   Q3     |             |             |             |             | 
+|   Q5     |             |             |             |             | 
+
+**Stack Bar Chart Attempt Using Tableau**
+<img width="1084" height="419" alt="Screenshot 2026-04-02 at 10 41 36 PM" src="https://github.com/user-attachments/assets/f873a19b-f15f-4918-a5cc-6b956008fac2" />
+
+**My Journey Figuring it Out**
+I was going back and forth with Calude sending it screenshots to help me walk me through how to do it step by step, which was very helpful_
+
+<img width="1085" height="660" alt="Screenshot 2026-04-02 at 10 38 54 PM" src="https://github.com/user-attachments/assets/2477a36b-e707-478f-88ff-879f319edf7e" />
+
+<img width="930" height="583" alt="Screenshot 2026-04-01 at 12 18 57 AM" src="https://github.com/user-attachments/assets/27568365-52ab-469a-a66d-4b863b0c7b51" />
+
+<img width="978" height="660" alt="Screenshot 2026-04-02 at 10 39 11 PM" src="https://github.com/user-attachments/assets/6eb4314b-bbd6-4ca6-a3a8-9f171e16fa0a" />
+
+_This is was when I finally was able to figure out how to make a bar chart! Thank you Claude!_
+
+<img width="1238" height="838" alt="Screenshot 2026-04-01 at 12 53 40 AM" src="https://github.com/user-attachments/assets/334cc8f1-ed24-44aa-9f83-ebed6a70ecf9" />
+
+<img width="930" height="583" alt="Screenshot 2026-04-01 at 12 28 05 AM" src="https://github.com/user-attachments/assets/ae3ed26f-efc6-4f10-a98b-803f6db66006" />
+
 
 Synthesis: 
 
