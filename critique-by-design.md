@@ -68,7 +68,7 @@ Immediately, I knew I wanted to make this visualization more interesting and int
 ### My Process
 <img src="https://drive.google.com/file/d/1SGmFKVX0WNd_Y9JnvTEr-TEvgJ9OBWP6/view?usp=share_link" width="200"/>
 
-
+![funny dog picture](https://drive.google.com/file/d/1g-B5P2VUwJQbyD3qAq4O5D76r3qpKIls/view?usp=share_link)
 
 
 
