@@ -102,6 +102,11 @@ _When conducting my interviews, I only showed them my sketches, and use unfortun
 |   Q5     |             |             |             |             | 
 
 **Stack Bar Chart Attempt Using Tableau**
+
+_This one focused on Ranking all 50 the Top Earner in descending order. This is what I showed the person from interview 4._
+<img width="930" height="583" alt="Screenshot 2026-04-01 at 12 28 05 AM" src="https://github.com/user-attachments/assets/ae3ed26f-efc6-4f10-a98b-803f6db66006" />
+
+_This one just focused on the top earners within sports This is what I showed the person from interview 4 as well after._
 <img width="1084" height="419" alt="Screenshot 2026-04-02 at 10 41 36 PM" src="https://github.com/user-attachments/assets/f873a19b-f15f-4918-a5cc-6b956008fac2" />
 
 **My Journey Figuring it Out**
@@ -113,11 +118,11 @@ I was going back and forth with Calude sending it screenshots to help me walk me
 
 <img width="978" height="660" alt="Screenshot 2026-04-02 at 10 39 11 PM" src="https://github.com/user-attachments/assets/6eb4314b-bbd6-4ca6-a3a8-9f171e16fa0a" />
 
+
 _This is was when I finally was able to figure out how to make a bar chart! Thank you Claude!_
 
 <img width="1238" height="838" alt="Screenshot 2026-04-01 at 12 53 40 AM" src="https://github.com/user-attachments/assets/334cc8f1-ed24-44aa-9f83-ebed6a70ecf9" />
 
-<img width="930" height="583" alt="Screenshot 2026-04-01 at 12 28 05 AM" src="https://github.com/user-attachments/assets/ae3ed26f-efc6-4f10-a98b-803f6db66006" />
 
 
 Synthesis: 
