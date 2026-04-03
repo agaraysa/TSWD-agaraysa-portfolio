@@ -139,7 +139,7 @@ _I was going back and forth with Claude sending it screenshots to help me walk m
 
 _This is was when I finally was able to figure out how to make a bar chart! Thank you Claude!_
 
-<img width="1238" height="838" alt="Screenshot 2026-04-01 at 12 53 40 AM" src="https://github.com/user-attachments/assets/334cc8f1-ed24-44aa-9f83-ebed6a70ecf9" />
+<img width="841" height="585" alt="Screenshot 2026-03-30 at 12 24 28 PM" src="https://github.com/user-attachments/assets/2e1fad3e-36b6-4c30-b3b3-cc2fad119946" />
 
 
 | Question |              Interview 4                                                                                                 |
