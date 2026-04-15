@@ -26,7 +26,7 @@ So with Claude’s help in brainstorming and some direction, this is how I am ev
   - **Data Viz 2:** showing a Map of the City of Pittsburgh showing the distribution of RCO around the neighborhoods within the city of Pittsburgh; this will shows that RCOs (and its neighborgoods) are not equitably represented across the city
   - **Data Viz 3:** Callout statistic Showing that despite there being 90 neighborhoods there are only 45 RCOS
   - Talk about some historical trends and contextual demographic that may explain the lack of RCO representation there
-  - 
+
 **V.*** Then introduce the Resolution/call to action:
   - Include reminder of the value of what an RCO can do for their community
   - Show some examples of SHUC’s past work in their role as an ROC
@@ -36,9 +36,10 @@ So with Claude’s help in brainstorming and some direction, this is how I am ev
 **Vi.** Call to action: Give instructions on how one’s organization can become an RCO? (maybe)
   - Here can end with the Pittsburgh real-life example that has happened and this can instill a sense of urgency?
 
-
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+>These are images of the in-class activity where we did the "story arc" exercise to help us start brain storming our project idea. This exercise helped me come up with my core idea of talking about the importance of being a Registered Community Organization (RCO) and the benfits by thinking about my experience working at the Squirrel Hill Urban Coalition (SHUC).
+
+**Thought Exercise** 
 
 Text here...
 
@@ -51,14 +52,81 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|      |     |  maybe there is a way to depict the benefits of an RCO like comparing it to a regular non-profit with no designation and to a community that has no community organization|
 |      |     |             |
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> I will be using both the features within shorthand to help tell the story in an aesthetic way, in addition to using its features to help tell the story of my data as well. I will mostly rely on Tableau to capture the main components of my data visualizations. Along the way if I need a better depiction I will explore other options from the dat viz cheat sheet, but I just hope to rely on shorthand and Tableau for this final project,  such as  In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+# Orginal Profect Idea Before Brainstorming with Claude
+> *I Will include some of the written-up narrative in my final project and incorporate it into my offcial outline that I can up with above.
+
+**I.** Introduce Squirrel Hill Urban Coalition - what they do and who they are. 
+  - The Squirrel Hill Urban Coalition (SHUC) is a non-profit community organization serving Squirrel Hill that advocates for the interests of community members, businesses, and neighborhoods of Squirrel Hill North & South. The organization informs and advocates on issues related to education, development activities, long-range planning, improvements, and initiatives such as land use, public safety, parks and recreation, residential/neighborhood quality of life, and other matters that impact the community, businesses, and neighborhoods within the designated geographic area of Squirrel Hill. Focused on the 14th ward, SHUC fosters transparency by disseminating information to the community and advocating for and monitoring activities and developments that will impact the surrounding community.
+    
+  - Maria Cohen is the Executive Director of the Squirrel Hill Urban Coalition, which runs the operations and administration of SHUC. As the only paid administrative employee of the organization, she relies on community volunteers and interns to support her in the day-to-day administrative tasks, event organizing, and disseminating information to the community. SHUC consults its board of directors and its president to make major organizational decisions.
+
+**Visualizations I will include in this section:**
+ - The organization’s logo, some photos (with the permission of Maria Cohen)
+ - **Data Viz (the People):** Who is SHUC helping - Community Demographics [Source:American Community Surveys (5-Year Estimates) *using 2022-2024]
+   - Show Race & population - Pie Chart or Tree Map
+   - Family types & # of families - Tree Map
+   - Population age - Stacked bar chart or Pie chart
+     
+ - **Data Viz (Recreation & Mobility):** Squirrel Hill North & South Recreation Areas & Mobility trends(i.e. Bus and bike use, car use, walking)[Source:City of Pittsburgh-Neighborhood Snapshots (North & South Squirrel Hill)]
+   - Show hiking trails & neighborhood parks in North & South Squirrel Hill - via Interactive Map
+   - Mobility: most common mode of travel in North & South Squirrel Hill- Horizontal Bar graph - add icons of each type ? 
+
+**II.**Personal Connection: Why is SHUC important to me?
+  - I have been interning at SHUC during both of my academic years as a PPM master student here at Heinz. Working for SHUC has given me the opportunity to be involved with the community on the ground by representing SHUC at various community events, assisting with the preparation of significant fundraising events, helping with donor management and acknowledgment, and supporting day-to-day administrative tasks. SHUC has a special place in my heart because working with them introduced me to the people and neighborhoods that make Pittsburgh unique and vibrant. Additionally, SHUC made me feel like part of the community immediately, which made me feel at home when I found myself in a completely new area that I was not familiar with. Additionally, working for SHUC interested me since I wanted to gain an understanding of how local non-profits advocate for communities and promote resilience and community building; SHUC allowed me to learn the mechanics of their role in advocating for the people and neighbors of Squirrel Hill.
+  - SHUC is a Registered Community Organization (RCO), and my experience working with them deepened my understanding of the significance and power of this designation. I was able to witness firsthand how SHUC fulfills its role as an RCO in practice and on the ground, where I was able to see firsthand the real impact they have in the local community by creating unity and identity through community events, but also through their advocacy work that keeps residents informed and ensures their voices are heard.
+  - I will be forever grateful to SHUC for introducing me to the real Pittsburgh, as it gave me the privilege to understand its people, provided me with community, and gave me purpose in my journey as a graduate student in public policy. 
+
+**Visualizations I will include in this section:**
+  - Photos of me representing SHUC in various community events throughout my time interning there.
+  - **Data viz:** Of all the community engagement events I have supported? *maybe will include unless it comes off as unnecessary, given how my story evolves.
+
+**III.** SHUC is a Registered Community Organization (RCO), what is a RCO?
+  - SHUC is an RCO (Registered Community Organization) under Pittsburgh's Department of City Planning (DCP), which requires the DCP to notify RCOs of proposed development projects within the RCO's geographic area. Within 30 days, RCOs are responsible for organizing a public meeting at which the development group presents its plans to impacted residents/community members during a public hearing, known as a Development Activities Meeting. If the development project spans multiple geographic areas, all RCOs within those boundaries must be notified, and DCP is responsible for organizing a public hearing for the project, in coordination with the RCOs involved. Development Activities Meetings held by DCP enable SHUC to serve as a stakeholder in the city's development processes and plans that will impact their geographical area. These enable transparency into project inputs and involve the community in the planning process for projects that impact their neighborhoods and businesses.
+
+**Visualizations I will include in this section:**
+  - **Data viz:** Map of all the RCO’s located in the City (to show it supports Squirrel Hill neighborhood in the city) & Highlight SHUC
+    - Data Source: City of Pittsburgh website - Where is my RCO?, CIty of Pittsburgh website - List of RCOs PDF
+
+**IV.** Why an RCO is important
+  - Register Community Organizations are important because they disseminate information to their residents and coordinate meetings related to DCP’s project development review process to ensure the community voice is unified and considered in these plans, which the city is required to involve them in. Being RCO has significant benefits in having a streamlined and direct connections to (and stake) with the city, however those community organizations or individual community members that are not a part of an RCO, the city is required to notify impacted communities about these development plans, per the The Pittsburgh Administrative Code, where these stakeholders can also testify or send letter of their concerns. However, RCOs allow for a more streamlined framework, making this project development review process more effective.
+  - As a Registered Community Organization that ensures its community's voice is heard by vetting projects or initiatives through its organization, SHUC not only informs its residents of issues but also promotes the resiliency of its people and infrastructure to improve the quality of life for its residents and neighborhoods. SHUC can increase its capacity by collaborating with and partnering with neighboring community organizations and non-profits to further support its community, neighbors, and businesses on common issues. This includes expanding the reach of information through a wider net to mobilize the community and disseminate information; developing a unified crisis response during an emergency; fundraising for a common goal; and organizing community events (i.e., night markets, farmers markets, pride parades, others). Additionally, SHUC engages its residents through volunteer opportunities in various committees, such as the Trees and Parks Committee and the Liter Patrol Committee, among others, to support its initiatives and mission.
+  - SHUC has been able to Support/Advocate for Community this as a local non profit and RCO:
+
+**Visualizations I will include in this section:**
+
+  - **Data Viz:** Jefferson Apartment Fire Crisis Response - Call out Statistic [Sources: Excel sheet Fundraisers for the Squirrel Hill - Jefferson Apartment Fires & SHUC 2025 Year in Review print.pdf SHUC 2025 Year in Review PDF]
+    - Supported 30 displaced residents
+    - Partnered with Greenfield neighbors. Collective action allowed raising of a total of $167K for impacted residents (via steering concerned community members to their go-fund me page) 
+
+  - **Data Viz:** SHUC Trees and Parks Committee Efforts for restoring tree canopy in North and South Squirrel Hill - Before & After Bar Graph Comparison [Source: Pittsburgh Tree Canopy Explorer]
+     - Highlight gains & losses 2015 vs. 2020
+     - Highlight the gains and losses during this time
+     - Led to SHUC (with partner organization and elected council members) to launch tree canopy restoration project called ReGreen Beechwood Boulevard- Call out Stats (or comparison before and after of this area in particular?)
+     - Mention the number of organization and elected official involved in pushing this project - Call out Stat
+     - The goal of this multi-year restoration project to restore the loss off tree coverage by planting approximately 350 trees along Beechwood Boulevard
+     - As of 2025, the Trees and Parks Committee has planted 56 trees! -can  include it in the bar graph to tell the story as well
+     - Additional Sources: Grant Request: ReGreen Beechwood Boulevard & Trees and Parks Committee - Pittsburgh
+       
+   - **Data Viz:** Facilitated DAM meetings and orgainze various events  throughout the year that enriches and builds community
+   - Source: SHUC 2025 Year in Review print.pdf
+   - Include photos
+   - Show the number of DAM meeting and Community events held in 2025 - Call out Stat
+
+**V.** Conclusion → Call to action (my thoughts so far) 
+  - **Option 1:** Learn how your community organization/non-profit can become an RCO. CLick this link to begin your application →Registered Community Organization Program - Pittsburgh, PA
+    - This call to action can work if I am a representative of the Department of City Planning or another type of person wanting to inform other local organizations about the city’s RCO program and to learn how to register.  SHUC is used as a local example.
+  - **Option 2:** Support SHUC! Donate, volunteer, and/or sign-up to our newsletter and social media to stay informed about upcoming DAM meetings, community events, and how to get involved! → Squirrel Hill Urban Coalition
+    - This call to action can work if I am representing SHUC, wanting either to attract donors (small or large) to support SHUC or to inform the community to get involved or donate to help support our efforts, and understand the work we are doing.
+
+
+
 
 ## References
 _List any references you used here._
