@@ -7,7 +7,7 @@ So with Claude’s help in brainstorming and some direction, this is how I am ev
 
 ### Introduction of My Data Visualization Story:
 
-> **Option 1 :** Start with my Personal Connection
+**Option 1 :** Start with my Personal Connection
 **I.** I work at the Squirrel Hill Urban Coalition (SHUC) and as a Registered Community Organization (RCO) have seen the value in the great work they do in advocating for their community and neighborhood (Squirrel Hill Urban Coalition) within Pittsburgh.
   - Speak on my experience interning there- have worked there in my time as a Heinz
   - Include some photos and potentially some demographics data to paint a picture of SHUC and Squirrel Hill
