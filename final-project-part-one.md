@@ -41,9 +41,10 @@ So with Claude’s help in brainstorming and some direction, this is how I am ev
 
 **Thought Exercise** 
 
-![IMG_0294](https://github.com/user-attachments/assets/f99bf401-1673-451b-bf16-0fd990327523)
+<img width="542.5" height="330" src= "https://github.com/user-attachments/assets/f99bf401-1673-451b-bf16-0fd990327523"/>
 ![IMG_0295](https://github.com/user-attachments/assets/2c7e4e01-1cd1-44fc-9095-b497afdabd62)
 
+<img width="1085" height="660" alt="Screenshot 2026-04-02 at 10 38 54 PM" src="https://github.com/user-attachments/assets/2477a36b-e707-478f-88ff-879f319edf7e" />
 **Story Arc Exercise** 
 
 ![IMG_0296](https://github.com/user-attachments/assets/d601a720-dd60-4e9d-b658-099c5d353b8b)
