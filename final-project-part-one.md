@@ -41,7 +41,13 @@ So with Claude’s help in brainstorming and some direction, this is how I am ev
 
 **Thought Exercise** 
 
-Text here...
+![IMG_0294](https://github.com/user-attachments/assets/f99bf401-1673-451b-bf16-0fd990327523)
+![IMG_0295](https://github.com/user-attachments/assets/2c7e4e01-1cd1-44fc-9095-b497afdabd62)
+
+**Story Arc Exercise** 
+
+![IMG_0296](https://github.com/user-attachments/assets/d601a720-dd60-4e9d-b658-099c5d353b8b)
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
