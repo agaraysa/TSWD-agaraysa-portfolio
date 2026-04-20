@@ -50,13 +50,13 @@
 **Map of RCO presence across neighborhoods within the City of Pittsburgh**
 
 Version 1 -
-<img width="1932.1" height="1288.7" alt="IMG_0453" src="https://github.com/user-attachments/assets/0d322463-6412-4f80-bf77-47cba257b3d5" />
+<img width="1700.3" height="1225" alt="IMG_0453" src="https://github.com/user-attachments/assets/0d322463-6412-4f80-bf77-47cba257b3d5" />
 
 Version 2 -
-<img width="1925" height="1389.5" alt="IMG_0456" src="https://github.com/user-attachments/assets/218076f5-2681-48f4-9120-8e0ab458696e" />
+<img width="1700.3" height="1225" alt="IMG_0455" src="https://github.com/user-attachments/assets/009a33db-b05e-4a34-97d3-65b7ebd922db" />
 
 Version 3 -
-<img width="1700.3" height="1225" alt="IMG_0455" src="https://github.com/user-attachments/assets/009a33db-b05e-4a34-97d3-65b7ebd922db" />
+<img width="1700.3" height="1225" alt="IMG_0456" src="https://github.com/user-attachments/assets/218076f5-2681-48f4-9120-8e0ab458696e" />
 
 Version 4 (created by Claude) -
 <img width="559.3" height="407.4" alt="Screenshot 2026-04-19 at 10 53 59 PM 2" src="https://github.com/user-attachments/assets/f9cd9c1a-f12d-411a-8fd2-00363143b2e7" />
