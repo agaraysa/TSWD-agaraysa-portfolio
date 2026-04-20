@@ -69,11 +69,13 @@ Version Created by Claude -
 
 
 
+
 **Rough Bar Chart to Depict Tree Canopy Comparison Highlighting Gains & Losses 2015 vs. 2020 in Squirrel Hill**
 
 Version 1 -
 
 <img width="3207" height="2400" alt="IMG_0457" src="https://github.com/user-attachments/assets/6334a262-0054-49c5-9ed9-160428a4a9cf" />
+
 
 Version 2 -
 
