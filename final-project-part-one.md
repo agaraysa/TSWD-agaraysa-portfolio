@@ -1,10 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
-*I used Claude to help me brainstorm because I was stuck on my idea, especially after hearing feedback from my classmates on Monday after I presented it to them. They mentioned I had no story arc and they wanted to know who my audience was. 
-
-So with Claude’s help in brainstorming and some direction, this is how I am evolving my ROC into an actual story:
-
+> With Claude’s help in brainstorming and some direction, this is how I am evolved my RCO into an actual story:
 ### Introduction of My Data Visualization Story:
 
 **Option 1 :** Start with my Personal Connection
@@ -48,12 +45,32 @@ So with Claude’s help in brainstorming and some direction, this is how I am ev
 
 <img width="552.5" height="340" src= "https://github.com/user-attachments/assets/d601a720-dd60-4e9d-b658-099c5d353b8b"/>
 
+**Initial Sketches of some of the Data Vizs I Plan to Use** 
+
+**Map of RCO presence across neighborhoods within the City of Pittsburgh**
+
+Version 1 -
+<img width="1932.1" height="1288.7" alt="IMG_0453" src="https://github.com/user-attachments/assets/0d322463-6412-4f80-bf77-47cba257b3d5" />
+
+Version 2 -
+<img width="1925" height="1389.5" alt="IMG_0456" src="https://github.com/user-attachments/assets/218076f5-2681-48f4-9120-8e0ab458696e" />
+
+Version 3 -
+<img width="1700.3" height="1225" alt="IMG_0455" src="https://github.com/user-attachments/assets/009a33db-b05e-4a34-97d3-65b7ebd922db" />
+
+Version 4 (created by Claude) -
+<img width="559.3" height="407.4" alt="Screenshot 2026-04-19 at 10 53 59 PM 2" src="https://github.com/user-attachments/assets/f9cd9c1a-f12d-411a-8fd2-00363143b2e7" />
+
+<img width="559.3" height="448.7" alt="Screenshot 2026-04-19 at 10 53 26 PM 2" src="https://github.com/user-attachments/assets/becd7d9e-1ff9-4b9c-9f12-52e41a2eb8ec" />
+
+**Rough Bar Chart to Depict Tree Canopy Comparison Highlighting Gains & Losses 2015 vs. 2020 in Squirrel Hill**
+Version 1 -
+<img width="552.5" height="340" src= "
+Version 2 -
+<img width="552.5" height="340" src= "
+
+
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -68,10 +85,10 @@ Text here...
 |SHUC supported 30 displaced residents Affected by the Jefferson Apartments Fire| [SHUC 2025 Year in Review print.pdf](https://drive.google.com/file/d/14-D9L7yR8fkhyMquY2ojf_m2aeWR6o_7/view)|Demonstrates how SHUC has been able to Support/Advocate for Community this as a local non profit and RCO, how they supported dislpaced residents from the Jefferson Apartment Fire Crisis by partnering with other RCO organizations (i.e. Greenfield Community Association;decided not to include additional data about the funds raised since it had direct link to indivdual displace; I wanted to keep their privacy and not use this data from an excel sheet and did not includ it.|
 
 # Method and medium
-> I will be using both the features within shorthand to help tell the story in an aesthetic way, in addition to using its features to help tell the story of my data as well. I will mostly rely on Tableau to capture the main components of my data visualizations. Along the way if I need a better depiction I will explore other options from the dat viz cheat sheet, but I just hope to rely on shorthand and Tableau for this final project,  such as  In a few sentences, you should document how you plan on completing your final project. 
+_I will be using both the features within shorthand to help tell the story in an aesthetic way, in addition to using its features to help tell the story of my data as well. I will mostly rely on Tableau to capture the main components of my data visualizations. Along the way if I need a better depiction I will explore other options from the dat viz cheat sheet, but I just hope to rely on shorthand and Tableau for this final project,  such as  In a few sentences, you should document how you plan on completing your final project. Additionally, i will be using Claude to help walk me through how to create the visualization through the specific trouble if I encounter any difficulties/question and also help me in converting any data into excel, csv, or shapfile form as needed. I will also use it to help depict some of the visualizations as needed._
 
 # Orginal Profect Idea Before Brainstorming with Claude
-> *I Will include some of the written-up narrative in my final project and incorporate it into my offcial outline that I can up with above.
+> I will include sections from my written-up narrative below and incorporate it into my offcial outline above for my final project.
 
 **I.** Introduce Squirrel Hill Urban Coalition - what they do and who they are. 
   - The Squirrel Hill Urban Coalition (SHUC) is a non-profit community organization serving Squirrel Hill that advocates for the interests of community members, businesses, and neighborhoods of Squirrel Hill North & South. The organization informs and advocates on issues related to education, development activities, long-range planning, improvements, and initiatives such as land use, public safety, parks and recreation, residential/neighborhood quality of life, and other matters that impact the community, businesses, and neighborhoods within the designated geographic area of Squirrel Hill. Focused on the 14th ward, SHUC fosters transparency by disseminating information to the community and advocating for and monitoring activities and developments that will impact the surrounding community.
@@ -137,10 +154,8 @@ Text here...
     - This call to action can work if I am representing SHUC, wanting either to attract donors (small or large) to support SHUC or to inform the community to get involved or donate to help support our efforts, and understand the work we are doing.
 
 
-
-
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_*I used Claude to help me brainstorm because I was stuck on my idea, especially after hearing feedback from my classmates on Monday after I presented it to them. They mentioned I had no story arc and they wanted to know who my audience was. And to help walk me through using Tableau for my data visualizations and it even helped me create the coordinates for the location of RCO within the neighborhoods and put that into the excel file it created from the RCO PDF from the City of Pittsburgh's website_
