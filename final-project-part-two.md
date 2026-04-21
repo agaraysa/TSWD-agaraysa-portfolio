@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-**Story Purpose** : The Purpose of this story is to shed light on the importance ofhaving an RCO designation and the need in expanding the presence of RCO across Pittsburgh. My audience may be presenting to local community orgainizations within these underrepresented neighborhoods to bring awareness and bring information to them to learn and get resources into becoming an RCO.    
+**Story Purpose** : The Purpose of this story is to shed light on the importance ofhaving an RCO designation and the need in expanding the presence of RCO across Pittsburgh. 
 
 **Wire-Frame 1** : This section simply defines that an RCO is a Regictered Community Organization.
 
@@ -21,23 +21,17 @@ Here is the link to check out the first version of my story:
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My Target audience may be presenting to local community orgainizations within these underrepresented neighborhoods to bring awareness and bring information to them to learn and get resources into becoming an RCO. I can be acting as a city representative or advocate within on this matter of equitable public enagement.    
 
-Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+| Encourage Community Groups to Register or become partnered with their neighborhood RCO|  Are you registered? Are you partnered with another RCO? Do you have the necessary criteria and resources to regicter? DO you need more support in the aplication process?   |
 |      |                  |
 |      |                  |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -46,9 +40,9 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Feedback on Map visualisation |  | Including and comparing data that has to do with medium income level and with historically disinvested areas would support your goal|             |
+| Does my story make sense? |                                |             |             |
+| Any other suggestions  |                                |             |             |
 
 
 # Identified changes for Part III
