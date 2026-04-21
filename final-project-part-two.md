@@ -54,19 +54,21 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Integrate more visualizations to support my RCO gap in Pittsburgh (equity lense) & top make more impact | I want to see if I can use median income to do comparison (high, med, low income quantiles) with RCO neighborhood presence and see if there is a pattern in areas that have had historical/current disinvestment or underesources due to racial inquality, socio economic depreciation, etc|
+| I Still want to include SHUC in there since it was what inpired me and brought awareness to what an RCO is and does| I will include an example of a poject that SHUC was able to dessimate information on via development meetings the held and also some of theri community impact on criis response to show|
+| Additional Visualizations (if they make sense in bringing the message home)| Include an flow chart of the RCO application process, if I can fin it use data to show the RCO impact on decsions made in one's neighborhood (look at city of Pit website and snapshot resources (can compare access to parks or mobility access,; also can add barries in application process for becoming an RCO |
 
-> ...include any final thoughts you have here. 
+**Reflection on Progress of Story**
 
-Text here!
+My story was inspired by SHUC but then it was evolved more to an advocacy piece for those neighborhoods that do not have an RCO registered to their community, which althought the RCO creation does lead to exclusion of more unstructured community groups (i.e. like not being registered an official non-profit and that being an RCO requirement), braodening and expanding RCOs in these areas is essential. I think it was a lot or iteration and gaining really great insight from my interviews, which in a nutshell were not fully understanding the story I was wanting to depict, which with their input and listening of my thought process, thwy were able to help me identify the stry that I was wanting to tell in the first place. It is still not perfectly flushed out but it does feel that it has more of a direction.
 
 ## References
-_List any references you used here._
+ [Greenfield COmmunity Org](https://www.gcapgh.org/home/about-the-gca/registered-community-organization)
+[PublicSource- RCO Critics say the law will exclude some groups.](https://www.publicsource.org/pittsburgh-ordinance-registered-community-organizations/)
+ [City of Pittsburgh GIS Data HUB - Pittsburgh Neighborhoods](https://pghgishub-pittsburghpa.opendata.arcgis.com/datasets/dbd133a206cc4a3aa915cb28baa60fd4_0/explore?location=40.430841%2C-79.979853%2C12)
+  [CIty of Pittsburgh-List of RCOs PDF](https://www.pittsburghpa.gov/files/assets/city/v/1/dcp/documents/rco-list/list-of-rcos-february-5-2026.pdf)
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_I used Claude to help me create my map visualization using Tabluea by giving me step by step directions._
 
