@@ -36,9 +36,6 @@ My Target audience may be presenting to local community orgainizations within th
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -48,9 +45,6 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -62,10 +56,16 @@ Text here!
 
 My story was inspired by SHUC but then it was evolved more to an advocacy piece for those neighborhoods that do not have an RCO registered to their community, which althought the RCO creation does lead to exclusion of more unstructured community groups (i.e. like not being registered an official non-profit and that being an RCO requirement), braodening and expanding RCOs in these areas is essential. I think it was a lot or iteration and gaining really great insight from my interviews, which in a nutshell were not fully understanding the story I was wanting to depict, which with their input and listening of my thought process, thwy were able to help me identify the stry that I was wanting to tell in the first place. It is still not perfectly flushed out but it does feel that it has more of a direction.
 
-## References
+## References 
  [Greenfield COmmunity Org](https://www.gcapgh.org/home/about-the-gca/registered-community-organization)
+ 
+ 
 [PublicSource- RCO Critics say the law will exclude some groups.](https://www.publicsource.org/pittsburgh-ordinance-registered-community-organizations/)
+
+
  [City of Pittsburgh GIS Data HUB - Pittsburgh Neighborhoods](https://pghgishub-pittsburghpa.opendata.arcgis.com/datasets/dbd133a206cc4a3aa915cb28baa60fd4_0/explore?location=40.430841%2C-79.979853%2C12)
+
+ 
   [CIty of Pittsburgh-List of RCOs PDF](https://www.pittsburghpa.gov/files/assets/city/v/1/dcp/documents/rco-list/list-of-rcos-february-5-2026.pdf)
 
 
