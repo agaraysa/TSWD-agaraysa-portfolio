@@ -55,10 +55,10 @@ Version 1 -
 <img width="1225" height="1700.3" alt="IMG_0453" src="https://github.com/user-attachments/assets/0d322463-6412-4f80-bf77-47cba257b3d5" />
 
 Version 2 -
-<img width="1700.3" height="1225" alt="IMG_0455" src="https://github.com/user-attachments/assets/009a33db-b05e-4a34-97d3-65b7ebd922db" />
+<img width="1225" height="1700.3" alt="IMG_0455" src="https://github.com/user-attachments/assets/009a33db-b05e-4a34-97d3-65b7ebd922db" />
 
 Version 3 -
-<img width="1700.3" height="1225" alt="IMG_0456" src="https://github.com/user-attachments/assets/218076f5-2681-48f4-9120-8e0ab458696e" />
+<img width="1225" height="1700.3" alt="IMG_0456" src="https://github.com/user-attachments/assets/218076f5-2681-48f4-9120-8e0ab458696e" />
 
 Version Created by Claude -
 
