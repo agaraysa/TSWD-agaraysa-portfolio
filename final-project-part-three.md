@@ -1,9 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
- [Final Present](https://carnegiemellon.shorthandstories.com/RCOVersion1/index.html)
-
-Text here!
+ [Click HERE to view my Final Presentation!](https://carnegiemellon.shorthandstories.com/RCOVersion1/index.html)
 
 # Changes made since Part II
 _The main change I decided to incorporate was integrating the feedback I received from my classmates, which I found really helpful in making my project's final product more complete and cohesive. The first thing I changed was to make my "call-out" states into actual visualizations using shorthand's callout stat template. Second, in my call-to-action section, I added more community resources specific to folks being able to connect/find out who their RCO is, and if not contact information of their council member so that they can write to their district's council member to support in the process to mobilize an already established community group that is a non-profit to apply for RCO designation and/or to help orgainzing a community group that can recieve the required non-profit designation necessary to qualify to become an RCO. I also added a link that explains the requirements for starting the RCO process. Lastly, I added more text/paragraphs to provide more context and understanding of the materials, to help guide someone who would be browsing my story on their own time, so that it is a standalone story, and a call to action can be understood clearly if they happen to be just by scrolling through it._
