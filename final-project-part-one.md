@@ -52,7 +52,7 @@
 **Map of RCO presence across neighborhoods within the City of Pittsburgh**
 
 Version 1 -
-<img width="1700.3" height="1225" alt="IMG_0453" src="https://github.com/user-attachments/assets/0d322463-6412-4f80-bf77-47cba257b3d5" />
+<img width="552.5" height="340" src="IMG_0453" src="https://github.com/user-attachments/assets/0d322463-6412-4f80-bf77-47cba257b3d5" />
 
 Version 2 -
 <img width="1700.3" height="1225" alt="IMG_0455" src="https://github.com/user-attachments/assets/009a33db-b05e-4a34-97d3-65b7ebd922db" />
