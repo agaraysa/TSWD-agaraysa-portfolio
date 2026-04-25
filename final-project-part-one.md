@@ -2,6 +2,8 @@
 
 # Outline
 > With Claude’s help in brainstorming and some direction, this is how I am evolved my RCO into an actual story:
+
+
 ### Introduction of My Data Visualization Story:
 
 **Option 1 :** Start with my Personal Connection
