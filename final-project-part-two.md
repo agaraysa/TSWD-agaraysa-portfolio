@@ -57,16 +57,29 @@ My Target audience may be presenting to local community orgainizations within th
 My story was inspired by SHUC but then it was evolved more to an advocacy piece for those neighborhoods that do not have an RCO registered to their community, which althought the RCO creation does lead to exclusion of more unstructured community groups (i.e. like not being registered an official non-profit and that being an RCO requirement), braodening and expanding RCOs in these areas is essential. I think it was a lot or iteration and gaining really great insight from my interviews, which in a nutshell were not fully understanding the story I was wanting to depict, which with their input and listening of my thought process, thwy were able to help me identify the stry that I was wanting to tell in the first place. It is still not perfectly flushed out but it does feel that it has more of a direction.
 
 ## References 
- [Greenfield COmmunity Org](https://www.gcapgh.org/home/about-the-gca/registered-community-organization)
- 
- 
-[PublicSource- RCO Critics say the law will exclude some groups.](https://www.publicsource.org/pittsburgh-ordinance-registered-community-organizations/)
+ _“City of Pittsburgh List of RCO’s.” PDF. The City of Pittsburgh, n.d. Accessed April 20, 2026. https://www.pittsburghpa.gov/files/assets/city/v/1/dcp/documents/rco-list/list-of-rcos-february-5-2026.pdf._
 
+_“City of Pittsburgh_RCOMap | Tableau Public.” Accessed April 25, 2026. https://public.tableau.com/app/profile/a.sandoval/viz/CityofPittsburgh_RCOMap/NoRCOMap?publish=yes._
 
- [City of Pittsburgh GIS Data HUB - Pittsburgh Neighborhoods](https://pghgishub-pittsburghpa.opendata.arcgis.com/datasets/dbd133a206cc4a3aa915cb28baa60fd4_0/explore?location=40.430841%2C-79.979853%2C12)
+_“City of Pittsburgh_YesRCO | Tableau Public.” Accessed April 25, 2026. https://public.tableau.com/app/profile/a.sandoval/viz/shared/26QZ472QR._
 
- 
-  [CIty of Pittsburgh-List of RCOs PDF](https://www.pittsburghpa.gov/files/assets/city/v/1/dcp/documents/rco-list/list-of-rcos-february-5-2026.pdf)
+_“Districts.” Accessed April 25, 2026. https://www.pittsburghpa.gov/City-Government/The-City-Council/Districts._
+
+_“Home.” Accessed April 25, 2026. https://www.gcapgh.org/._
+
+_“Neighborhoods.” Accessed April 25, 2026. https://pghgishub-pittsburghpa.opendata.arcgis.com/datasets/dbd133a206cc4a3aa915cb28baa60fd4_0/explore?location=40.430841,-79.979853,12._
+
+_“Registered Community Organization Program.” Accessed April 25, 2026. https://www.pittsburghpa.gov/Business-Development/City-Planning/City-Planning-Programs/RCO._
+
+_Shoemaker, J. Dale. “New Pittsburgh Ordinance Mandates Developers Talk to ‘Registered’ Community Groups. Critics Say the Law Will Exclude Some Groups.” Pittsburgh’s Public Source, December 3, 2018. https://www.publicsource.org/pittsburgh-ordinance-registered-community-organizations/._
+
+_“SHUC 2025 Year in Review.” PDF. Squirrel Hill Urban Coalition, 2025. https://drive.google.com/file/d/14-D9L7yR8fkhyMquY2ojf_m2aeWR6o_7/view._
+
+_SHUC. n.d. Accessed April 25, 2026. https://shuc.org/._
+
+_Tableau Public. “City of Pittsburgh_NeighborhoodMap.” Accessed April 25, 2026. https://public.tableau.com/app/profile/a.sandoval/viz/CityofPittsburgh_NeighborhoodMap/Dashboard2._
+
+_“Who’s My RCO.” Accessed April 25, 2026. https://www.pittsburghpa.gov/Business-Development/City-Planning/City-Planning-Programs/RCO/Who’s-My-RCO._ 
 
 
 ## AI acknowledgements
