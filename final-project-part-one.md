@@ -167,7 +167,29 @@ _I will be using both the features within shorthand to help tell the story in an
 
 
 ## References
-_List any references you used here._
+__“City of Pittsburgh List of RCO’s.” PDF. The City of Pittsburgh, n.d. Accessed April 20, 2026. https://www.pittsburghpa.gov/files/assets/city/v/1/dcp/documents/rco-list/list-of-rcos-february-5-2026.pdf._
+
+_“City of Pittsburgh_RCOMap | Tableau Public.” Accessed April 25, 2026. https://public.tableau.com/app/profile/a.sandoval/viz/CityofPittsburgh_RCOMap/NoRCOMap?publish=yes._
+
+_“City of Pittsburgh_YesRCO | Tableau Public.” Accessed April 25, 2026. https://public.tableau.com/app/profile/a.sandoval/viz/shared/26QZ472QR._
+
+_“Districts.” Accessed April 25, 2026. https://www.pittsburghpa.gov/City-Government/The-City-Council/Districts._
+
+_“Home.” Accessed April 25, 2026. https://www.gcapgh.org/._
+
+_“Neighborhoods.” Accessed April 25, 2026. https://pghgishub-pittsburghpa.opendata.arcgis.com/datasets/dbd133a206cc4a3aa915cb28baa60fd4_0/explore?location=40.430841,-79.979853,12._
+
+_“Registered Community Organization Program.” Accessed April 25, 2026. https://www.pittsburghpa.gov/Business-Development/City-Planning/City-Planning-Programs/RCO._
+
+_Shoemaker, J. Dale. “New Pittsburgh Ordinance Mandates Developers Talk to ‘Registered’ Community Groups. Critics Say the Law Will Exclude Some Groups.” Pittsburgh’s Public Source, December 3, 2018. https://www.publicsource.org/pittsburgh-ordinance-registered-community-organizations/._
+
+_“SHUC 2025 Year in Review.” PDF. Squirrel Hill Urban Coalition, 2025. https://drive.google.com/file/d/14-D9L7yR8fkhyMquY2ojf_m2aeWR6o_7/view._
+
+_SHUC. n.d. Accessed April 25, 2026. https://shuc.org/._
+
+_Tableau Public. “City of Pittsburgh_NeighborhoodMap.” Accessed April 25, 2026. https://public.tableau.com/app/profile/a.sandoval/viz/CityofPittsburgh_NeighborhoodMap/Dashboard2._
+
+_“Who’s My RCO.” Accessed April 25, 2026. https://www.pittsburghpa.gov/Business-Development/City-Planning/City-Planning-Programs/RCO/Who’s-My-RCO._
 
 ## AI acknowledgements
 _*I used Claude to help me brainstorm because I was stuck on my idea, especially after hearing feedback from my classmates on Monday after I presented it to them. They mentioned I had no story arc and they wanted to know who my audience was. And to help walk me through using Tableau for my data visualizations and it even helped me create the coordinates for the location of RCO within the neighborhoods and put that into the excel file it created from the RCO PDF from the City of Pittsburgh's website_
